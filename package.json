@@ -1,0 +1,15 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp Timestamp microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sandra Lundgren <sandra.lundgren@symbio.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.16.1",
+    "moment": "2.20.1"
+  }
+}
